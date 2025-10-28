@@ -14,14 +14,26 @@ export default function Translator() {
   const navigate = useNavigate();
 
   const languages = {
-    en: "English",
-    hi: "Hindi",
-    es: "Spanish",
-    fr: "French",
-    de: "German",
-    ar: "Arabic",
-    zh: "Chinese",
-  };
+  en: "English",
+  hi: "Hindi",
+  es: "Spanish",
+  fr: "French",
+  de: "German",
+  ar: "Arabic",
+  zh: "Chinese",
+  ja: "Japanese",
+  ko: "Korean",
+  ru: "Russian",
+  it: "Italian",
+  pt: "Portuguese",
+  nl: "Dutch",
+  tr: "Turkish",
+  ta: "Tamil",
+  te: "Telugu",
+  ur: "Urdu",
+  bn: "Bengali",
+};
+
 
   // 🧠 Translate function (MyMemory API)
   const translateText = async () => {
