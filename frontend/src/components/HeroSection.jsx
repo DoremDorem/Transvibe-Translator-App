@@ -86,7 +86,7 @@ export default function HeroSection(){
                         Translate One language to Other With <span className=" bg-gradient-to-r from-indigo-700 to-indigo-600 bg-clip-text text-transparent text-nowrap">TransVibe</span>.
                     </h1>
 
-                    <p className="max-w-md text-center md:text-base text-sm my-7">Explore a growing library of over 320+ beautifully crafted, customizable components.</p>
+                    <p className="max-w-md text-center md:text-base text-sm my-7">Explore a growing Transvibe of over 10+ language Translator</p>
 
                     {/* CTA Buttons */}
                     <div className="flex items-center gap-4 ">
